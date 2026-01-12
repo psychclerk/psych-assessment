@@ -2,191 +2,191 @@
   "Mood & Affect Presentations": {
     "Persistent Sadness": {
       "assessment": {
-        "clarify_core": "Onset: When did sadness begin? Gradual or sudden? Duration: How long has it persisted? Pervasiveness: Does it affect most activities? Context: Any triggers or life events? Functional impact: Work, relationships, self-care?",
-        "screen_for_syndrome": "Screen for depressive symptoms: loss of interest, fatigue, sleep/appetite changes, worthlessness, concentration problems, suicidal thoughts. Look for neurovegetative symptoms.",
-        "rule_out_mimics": "Medical: hypothyroidism, anemia, chronic fatigue, neurological disorders, malignancy. Substance: alcohol withdrawal, stimulant crash. Medication: beta-blockers, corticosteroids.",
-        "psychosocial_context": "Recent losses, chronic stressors, relationship conflicts, financial difficulties, lack of social support, depression history, personality factors.",
-        "risk_assessment": "Assess suicidal ideation, plans, intent, means, and attempts. Evaluate hopelessness. Consider self-neglect impact."
+        "clarify_core": "Onset, duration (>2 weeks?), course (continuous/episodic), pervasiveness (most of day/most days?), context (precipitating stressor vs spontaneous), subjective distress, functional impairment",
+        "screen_for_syndrome": "Anhedonia, fatigue/low energy, sleep disturbance (early morning awakening), appetite/weight change, psychomotor change, cognitive symptoms (poor concentration, guilt, hopelessness), **suicidal ideation** (passive vs active, intent, plan, means)",
+        "rule_out_mimics": "**Bipolarity**: past elevated mood, decreased sleep need, impulsivity. **Psychosis**: mood-congruent delusions, nihilism, guilt. **Anxiety disorders**: primary anxiety with secondary sadness. **Substance**: alcohol, cannabis, sedatives. **Medical**: hypothyroidism, anemia, chronic pain, neurological illness. **Medications**: steroids, beta-blockers, isotretinoin",
+        "psychosocial_context": "Recent losses, interpersonal conflicts, chronic stressors (caregiving, financial, academic), personality traits (neuroticism, dependency), supports, coping styles",
+        "risk_assessment": "Current suicidal ideation, past attempts, hopelessness, command hallucinations, protective factors"
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Major Depressive Disorder, Persistent Depressive Disorder (Dysthymia), Adjustment Disorder with Depressed Mood, Bipolar Depression, Depressive episode with psychotic features",
+        "secondary_mimics": "Anxiety disorder (GAD, panic), Substance-induced depressive disorder, Depression due to medical condition, Normal grief vs complicated grief",
+        "red_flags": "Bipolarity: antidepressant-induced worsening, early onset, episodic course, family history. Psychosis: mood-congruent delusions, catatonia. Suicide: active plan, means, intent"
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "Ensure **safety**: assess need for admission if high suicide risk. Address acute stressors. Involve family if appropriate.",
+        "biological_interventions": "First-line antidepressants: SSRIs (sertraline, escitalopram). Start low, go slow; explain delayed onset. Avoid antidepressant monotherapy if bipolarity suspected. Baseline labs if indicated (TSH, CBC).",
+        "psychological_interventions": "**Psychoeducation** (illness model, treatment expectations). Supportive therapy initially. CBT/IPT once acute distress reduces. Address maladaptive cognitions (guilt, hopelessness).",
+        "social_interventions": "Problem-solving around stressors. Strengthen supports. Occupational/academic accommodations if needed.",
+        "follow_up_monitoring": "Review in 1-2 weeks initially. Monitor suicidality, adherence, side effects. Plan duration (minimum 6-9 months post-remission)."
       },
       "faculty_pearls": [
-        "Consider Persistent Sadness within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "Persistent sadness \u2260 depression \u2192 **syndrome first**",
+        "Always rule out **bipolar depression**",
+        "**Risk assessment is more important than diagnosis**",
+        "Treatment is **bio-psycho-social**, not just an SSRI"
       ]
     },
     "Loss of Interest (Anhedonia)": {
       "assessment": {
-        "clarify_core": "Onset: When did loss of interest (anhedonia) begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Loss of Interest (Anhedonia). Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Loss of Interest (Anhedonia). Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Onset, duration (>2 weeks), specific areas affected (hobbies, work, relationships, food, sex), any activities that still bring pleasure, associated fatigue/low energy",
+        "screen_for_syndrome": "Depressed mood, sleep/appetite changes, fatigue, guilt/worthlessness, concentration difficulties, suicidal ideation. Assess for bipolar depression (episodic pattern). Screen for schizophrenia negative symptoms (avolition, alogia, affective flattening).",
+        "rule_out_mimics": "**Parkinson's disease** (early sign), stroke affecting reward circuits, **hypogonadism** (low testosterone), hypothyroidism, chronic pain syndromes. **Substance**: stimulant withdrawal, chronic alcohol use. **Medication**: antipsychotics (emotional blunting), SSRIs (emotional blunting as side effect).",
+        "psychosocial_context": "Burnout, chronic stress, relationship dissatisfaction, career disillusionment, lack of meaningful activities, social isolation, anhedonia as defense mechanism against trauma",
+        "risk_assessment": "Anhedonia is strong predictor of suicide - assess ideation, plans, intent. Self-neglect if avolition present."
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Major Depressive Disorder (core symptom), Persistent Depressive Disorder, Schizophrenia (negative symptoms), Schizoaffective Disorder, Bipolar Depression, Substance-Induced Depressive Disorder",
+        "secondary_mimics": "Parkinson's disease (mesolimbic dopamine dysfunction), stroke (reward circuit damage), hypogonadism, hypothyroidism, chronic pain syndrome, medication side effects, normal aging vs pathological anhedonia",
+        "red_flags": "**Complete anhedonia with profound avolition** \u2192 suggests schizophrenia negative symptoms. **Motor slowing** \u2192 parkinsonism. **Sudden onset after neurological event** \u2192 vascular"
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "Suicide risk assessment (anhedonia correlates strongly). Address self-care if compromised by avolition. Rule out neurological causes urgently if sudden onset.",
+        "biological_interventions": "Antidepressants: SSRIs, SNRIs. **Bupropion** (NDRI) for dopaminergic enhancement - often helpful for anhedonia. Dopamine agonists if Parkinson's-related. **Rule out**: TSH, testosterone, vitamin B12.",
+        "psychological_interventions": "**Behavioral activation** (gradual re-engagement in pleasurable activities - even without intrinsic motivation initially). CBT for depression. Pleasure mapping to identify any remaining interests. Mindfulness-based approaches.",
+        "social_interventions": "Encourage social engagement even without intrinsic motivation. Structured activities. Support for reintegration into meaningful roles. Family education about behavioral activation.",
+        "follow_up_monitoring": "Monitor return of interest and pleasure as **key recovery marker**. Adjust antidepressant dose if no response after 4-6 weeks. Bupropion trial if SSRIs ineffective for anhedonia."
       },
       "faculty_pearls": [
-        "Consider Loss of Interest (Anhedonia) within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "Anhedonia is often the **last symptom to resolve** in depression treatment",
+        "In schizophrenia, anhedonia is a **negative symptom** - responds poorly to antipsychotics, requires psychosocial interventions",
+        "**Bupropion may be particularly helpful** due to dopaminergic action",
+        "Distinguish **'loss of interest'** (motivational) from **'inability to experience pleasure'** (consummatory) - latter is more severe and treatment-resistant"
       ]
     },
     "Feeling Hopeless/Worthless": {
       "assessment": {
-        "clarify_core": "Onset: When did feeling hopeless/worthless begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Feeling Hopeless/Worthless. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Feeling Hopeless/Worthless. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Onset, duration (constant vs fluctuating), content of hopeless thoughts (future, relationships, recovery), worthlessness: guilt, shame, feeling like a burden, intensity of distress, impact on help-seeking",
+        "screen_for_syndrome": "Anhedonia, depressed mood, fatigue, sleep/appetite changes, concentration problems, suicidal ideation. Look for **rumination patterns**, excessive guilt. Screen for BPD (abandonment fears, identity disturbance).",
+        "rule_out_mimics": "Hypothyroidism (frontal lobe effects), neurological conditions (stroke affecting frontal circuits), **depression due to general medical condition**. **Substance**: alcohol intoxication/withdrawal, stimulant crash, cannabis. **Medication**: corticosteroids, interferon-alpha.",
+        "psychosocial_context": "Recent failures/rejections, chronic adversity, trauma history, cultural/religious beliefs about self-worth, family dynamics (critical vs supportive), socioeconomic challenges, unrealistic self-expectations, perfectionism",
+        "risk_assessment": "**Hopelessness is strongest predictor of suicide** - assess ideation, plans, intent, means, past attempts, protective factors, access to means. More dangerous than depression without hopelessness."
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Major Depressive Disorder, Persistent Depressive Disorder, Bipolar Depression, Adjustment Disorder with Depressed Mood, Borderline Personality Disorder, Schizoaffective Disorder (depressive type)",
+        "secondary_mimics": "Hypothyroidism, neurological conditions (frontal/temporal lesions), medication side effects, grief/bereavement (transient), situational stress without disorder, demoralization",
+        "red_flags": "**Psychotic depression** (mood-congruent delusions of worthlessness: 'I deserve punishment', 'I am evil'). **Catatonia** (mutism, negativism). **Severe hopelessness with active suicide plan** \u2192 emergency"
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "**Urgent suicide risk assessment**. If high risk: close monitoring, remove means, emergency evaluation, consider involuntary hospitalization if imminent danger. Address acute crises.",
+        "biological_interventions": "SSRIs first-line. **ECT** for severe depression with psychotic features OR high suicide risk OR treatment resistance. Rule out: TSH, electrolytes. Consider augmentation strategies if partial response.",
+        "psychological_interventions": "**CBT** (challenging cognitive distortions about hopelessness/worthlessness). **Behavioral activation** to build mastery and hope. DBT emotion regulation skills. Address maladaptive core beliefs.",
+        "social_interventions": "Strengthen support systems, address real-life stressors, involve family in safety planning, meaningful activity engagement, address cultural/religious factors.",
+        "follow_up_monitoring": "Frequent contact initially (weekly or more). Monitor suicide risk **very closely**. Reassess hopelessness as treatment progresses - improving hope is good prognostic sign. Consider ECT if no rapid improvement."
       },
       "faculty_pearls": [
-        "Consider Feeling Hopeless/Worthless within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "**Hopelessness is the single strongest predictor of suicide** - more than depression severity itself",
+        "In depressive disorders, worthlessness is often accompanied by **excessive guilt** - distinguish from realistic regret",
+        "**ECT is underutilized** for high-risk depression - can be lifesaving",
+        "Cultural factors influence expression - some cultures express through somatic complaints rather than verbal statements of worthlessness"
       ]
     },
     "Crying Spells": {
       "assessment": {
-        "clarify_core": "Onset: When did crying spells begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Crying Spells. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Crying Spells. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Onset, triggers (spontaneous vs minor vs major), frequency (daily/weekly), duration (brief vs prolonged), context (home only vs public situations), ability to control/suppress, associated mood state",
+        "screen_for_syndrome": "Depressed mood, anhedonia, fatigue, appetite/sleep changes, guilt, suicidal ideation. Also screen for anxiety disorders, PTSD, adjustment disorder, PMDD (timing with menstrual cycle). BPD screening (affective lability, abandonment fears).",
+        "rule_out_mimics": "**Pseudobulbar affect** (stroke, ALS, MS - inappropriate laughing/crying not matching mood). **Hormonal**: pregnancy, postpartum, menopause, thyroid dysfunction. **Substance**: alcohol intoxication/withdrawal. **Medication**: SSRIs (emotional lability as paradoxical effect).",
+        "psychosocial_context": "Recent losses, trauma, high stress, relationship conflicts, lack of emotional support, cultural attitudes about crying (stigma vs acceptance), personality factors (emotionality, alexithymia)",
+        "risk_assessment": "Assess for suicidal ideation - frequent crying can indicate severe distress. Evaluate for self-harm behaviors. Impact on functioning (work absences, social withdrawal, driving)."
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Major Depressive Disorder, Persistent Depressive Disorder, Bipolar Depression or Mixed Episode, Adjustment Disorder, PTSD, Grief/Bereavement, Borderline Personality Disorder, Premenstrual Dysphoric Disorder",
+        "secondary_mimics": "Pseudobulbar affect (neurological disorder), hormonal changes (pregnancy, postpartum, menopause, thyroid), medication side effects, substance effects, normal emotional expression",
+        "red_flags": "**Pseudobulbar affect** (inappropriate, uncontrollable crying not matching mood - suggests neurological). **Severe suicidal ideation with frequent crying**. **Sudden onset in middle-aged/elderly** (consider stroke)"
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "Assess for acute suicide risk. Support patient during distress. Normalize emotional expression while addressing underlying cause.",
+        "biological_interventions": "Antidepressants for underlying depression/anxiety. Hormone evaluation if indicated (FSH, LH, TSH). For pseudobulbar affect: **dextromethorphan/quinidine**, SSRIs, TCAs.",
+        "psychological_interventions": "CBT to address underlying depression/anxiety. **DBT emotion regulation skills** (mindfulness, distress tolerance). Grief counseling if appropriate. Stress management techniques. Emotional awareness training.",
+        "social_interventions": "Supportive environment, psychoeducation about emotional expression, address triggering situations, strengthen support network, family education about validating emotions.",
+        "follow_up_monitoring": "Monitor frequency and triggers of crying spells. Improvement in emotional regulation indicates treatment response. Monitor for pseudobulbar response to treatment."
       },
       "faculty_pearls": [
-        "Consider Crying Spells within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "Frequent crying spells can be the **presenting symptom of depression** even without overt sadness reported",
+        "Distinguish crying as **symptom** vs **appropriate grief** - context, triggers, pervasiveness help differentiate",
+        "**Pseudobulbar affect** presents with uncontrollable laughing or crying incongruent with mood - think neurological, not psychiatric",
+        "Some cultures express distress through **somatic symptoms** rather than crying - cultural formulation essential"
       ]
     },
     "Fatigue/Low Energy": {
       "assessment": {
-        "clarify_core": "Onset: When did fatigue/low energy begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Fatigue/Low Energy. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Fatigue/Low Energy. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Onset (gradual vs sudden), pattern (morning fatigue vs evening, worse with activity vs constant), rest improvement (does rest help?), sleep quantity/quality, impact on work/social/self-care",
+        "screen_for_syndrome": "Depressed mood, anhedonia, sleep/appetite changes, guilt, concentration problems. Also consider anxiety, mania/hypomania (during crash), medical causes. Screen for **somatization disorder**.",
+        "rule_out_mimics": "**Anemia** (CBC), **hypothyroidism** (TSH), **diabetes** (HbA1c), **heart failure**, **sleep apnea** (overnight study), **chronic fatigue syndrome**, **fibromyalgia**, infections (mononucleosis, EBV, COVID), malignancy. **Substance**: alcohol, sedatives, stimulant withdrawal. **Medication**: antihistamines, beta-blockers, antidepressants (fatigue as side effect).",
+        "psychosocial_context": "Chronic stress, burnout, lack of meaningful activity, poor sleep hygiene, relationship conflicts, work demands, physical inactivity, poor nutrition, caffeine dependence/withdrawal, caregiver fatigue",
+        "risk_assessment": "Safety - severe fatigue can impair driving, work safety. Evaluate for associated suicidal ideation if depression present. Risk of self-neglect."
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Major Depressive Disorder, Bipolar Depression, Persistent Depressive Disorder, Adjustment Disorder, Somatic Symptom Disorder, Depressive disorder due to another medical condition",
+        "secondary_mimics": "Anemia, hypothyroidism, diabetes, heart failure, sleep apnea, chronic fatigue syndrome, fibromyalgia, viral infections, malignancy, medication side effects, substance use/withdrawal",
+        "red_flags": "**Rapid onset fatigue with neurological symptoms** \u2192 stroke, encephalitis, meningitis. **Fatigue with weight loss + night sweats** \u2192 malignancy. **Severe orthostatic symptoms** \u2192 endocrine/cardiac. **Fatigue with jaundice** \u2192 hepatic"
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "Rule out urgent medical causes. Address safety concerns if fatigue impairs functioning significantly (driving, operating machinery).",
+        "biological_interventions": "**Basic labs**: CBC, TSH, BMP, HbA1c, vitamin B12, folate, iron studies. Treat identified causes. Antidepressants if depression present. **Sleep study** if OSA suspected (snoring, witnessed apneas, daytime sleepiness).",
+        "psychological_interventions": "CBT for depression and chronic fatigue. **Sleep hygiene education**. **Activity pacing** (for CFS - avoid boom-bust cycle). Stress management. Behavioral activation. Address illness beliefs.",
+        "social_interventions": "Address work accommodations if needed. Graded activity programs. Support groups (for CFS, fibromyalgia). Family education. Address caregiver burden if present.",
+        "follow_up_monitoring": "Reassess fatigue levels regularly. Monitor antidepressant response if prescribed. Re-evaluate if fatigue persists despite treatment - consider specialist referral (neurology, endocrinology, sleep medicine)."
       },
       "faculty_pearls": [
-        "Consider Fatigue/Low Energy within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "Fatigue is one of the most **common and nonspecific symptoms** - requires thorough medical + psychiatric evaluation",
+        "**Depression-related fatigue is often worse in morning** and improves with activity, whereas medical fatigue often worsens with exertion",
+        "In depression, fatigue is present **despite adequate sleep** - distinguish from sleep deprivation",
+        "**Chronic Fatigue Syndrome** requires fatigue lasting 6+ months, not explained by medical/psychiatric causes, with post-exertional malaise"
       ]
     },
     "Excessive Happiness/Elevated Mood": {
       "assessment": {
-        "clarify_core": "Onset: When did excessive happiness/elevated mood begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Excessive Happiness/Elevated Mood. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Excessive Happiness/Elevated Mood. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Onset (sudden vs gradual), duration (days/weeks), intensity (normal happiness vs abnormal euphoria), consistency (all day vs fluctuating), context (triggers vs spontaneous), insight (does patient recognize mood change?), functional impact (productivity vs impairment)",
+        "screen_for_syndrome": "**Decreased need for sleep** (core feature - feels rested), **increased activity**, **racing thoughts**, **grandiosity**, **distractibility**, **risk-taking behaviors** (spending, sex, driving). Also screen for hypomania criteria. Assess for psychotic features (mood-congruent delusions).",
+        "rule_out_mimics": "**Hyperthyroidism** (TSH, T3, T4 - weight loss, tremor, heat intolerance), **Cushing's syndrome**, neurological conditions (stroke, tumor, epilepsy - mania can be ictal or postictal). **Substance**: stimulants (cocaine, amphetamines, meth), MDMA, cannabis, alcohol intoxication. **Medication**: corticosteroids, dopaminergic agents (levodopa, pramipexole), antidepressants (switch to mania).",
+        "psychosocial_context": "Recent successes, mania triggers (sleep deprivation, substance use, schedule disruption), stress (can trigger or exacerbate), circadian disruption, seasonal patterns (spring/summer for mania).",
+        "risk_assessment": "**Dangerous behaviors**: reckless spending, sexual promiscuity, risky investments, dangerous driving, physical risk-taking. Harm to self or others. Insight and judgment. Impulsivity. Access to resources (credit cards, vehicles)."
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Bipolar I Disorder (manic episode), Bipolar II Disorder (hypomanic episode), Cyclothymic Disorder, Schizoaffective Disorder (bipolar type), Substance/Medication-Induced Bipolar Disorder",
+        "secondary_mimics": "Hyperthyroidism, Cushing's syndrome, stimulant intoxication, steroid-induced euphoria, neurological conditions (temporal lobe epilepsy, stroke, tumor), normal happiness/celebration, personality traits (cheerful temperament, hyperthymic personality)",
+        "red_flags": "**Psychotic features with mood incongruence** \u2192 consider schizoaffective or primary psychosis. **Rapid mood lability** (hours) \u2192 borderline personality. **Severe disinhibition with legal consequences**. **Catatonia**. **Neuroleptic malignant syndrome** (if on antipsychotics)"
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "**Safety assessment for risky behaviors**. If manic with poor insight: consider involuntary hospitalization. Remove access to money/credit if spending dangerously. Protect from sexual exploitation. Supervise driving.",
+        "biological_interventions": "**Mood stabilizers**: lithium (first-line for mania), valproate, carbamazepine, lamotrigine. **Antipsychotics**: olanzapine, quetiapine, risperidone, aripiprazole (all have evidence for mania). **Benzodiazepines** for acute agitation (lorazepam, clonazepam). **Rule out**: TSH.",
+        "psychological_interventions": "**Psychoeducation** about bipolar disorder (chronic, relapsing, needs ongoing treatment). Adherence counseling. Cognitive therapy for insight (when mood stable). Family-focused therapy to improve communication and early detection. Relapse prevention planning.",
+        "social_interventions": "Limit access to financial resources during acute episode. Supervise high-risk activities. Involve family in safety monitoring. Structured environment. Regular sleep schedule.",
+        "follow_up_monitoring": "Frequent monitoring initially (daily to weekly). Monitor for medication side effects. Monitor mood, sleep, activity, risk behaviors. Long-term maintenance treatment required (lifelong for most). Monitor lithium/valproate levels."
       },
       "faculty_pearls": [
-        "Consider Excessive Happiness/Elevated Mood within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "**Screen carefully for bipolar disorder before prescribing antidepressants** - antidepressants can precipitate mania in undiagnosed bipolar patients",
+        "**Elevated mood with psychotic features** (delusions of grandeur, special powers) suggests severe mania requiring aggressive treatment with antipsychotics + mood stabilizers",
+        "Distinguish mania from normal happiness: mania is **pervasive, associated with functional impairment**, and accompanied by other symptoms (decreased sleep need, increased activity)",
+        "**Lack of insight is characteristic of mania** - patient may not recognize mood change and may resist treatment - family input crucial"
       ]
     },
     "Irritability": {
       "assessment": {
-        "clarify_core": "Onset: When did irritability begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Irritability. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Irritability. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Onset, triggers (specific situations/people vs generalized), frequency (constant vs episodic), intensity (mild annoyance vs rage episodes), duration of episodes, expression (verbal, physical, suppressed), impact (relationships, work, legal consequences)",
+        "screen_for_syndrome": "Depressed mood, anhedonia, sleep/appetite changes, concentration problems. Also consider mania/hypomania (if episodic with elevated mood), PTSD (hyperarousal), ADHD (lifelong pattern), personality disorders (BPD, antisocial, intermittent explosive). Look for associated: anxiety, impulsivity, sleep disturbances.",
+        "rule_out_mimics": "**Hyperthyroidism** (irritability, heat intolerance, weight loss, tremor), **hypoglycemia** (episodic irritability with hunger), **PMS/PMDD** (timing with cycle), neurological conditions (temporal lobe epilepsy), chronic pain. **Substance**: alcohol withdrawal, stimulant intoxication/withdrawal, steroid use, caffeine excess. **Medication**: steroids, SSRIs (activation syndrome), stimulants (for ADHD - rebound irritability).",
+        "psychosocial_context": "Chronic stress, relationship conflicts, work pressure, sleep deprivation, recent losses, trauma history, learned patterns of anger expression, family dynamics (aggressive vs validating), cultural factors around anger expression",
+        "risk_assessment": "**Aggression risk**: history of violence, access to weapons, threats made, recent substance use, history of assaults. **Domestic violence risk** (perpetrator or victim). **Self-harm** during rage episodes. **Suicidal ideation** in context of BPD or depression."
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Major Depressive Disorder (especially in children/adolescents), Bipolar Disorder (manic or mixed episodes), Generalized Anxiety Disorder, PTSD, Intermittent Explosive Disorder, Borderline Personality Disorder, ADHD, Disruptive Mood Dysregulation Disorder (children)",
+        "secondary_mimics": "Hyperthyroidism, hypoglycemia, PMS/PMDD, neurological conditions, chronic pain, substance intoxication/withdrawal, medication side effects, normal stress response",
+        "red_flags": "**History of violence**, weapon access, threats of harm, severe rage episodes with amnesia, physical aggression resulting in injury, domestic violence, legal consequences of aggression"
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "**Assess for imminent violence risk**. If high risk: safety planning, remove weapons, consider hospitalization. Address any acute crises. Assess for self-harm/suicide risk.",
+        "biological_interventions": "Treat underlying disorder: antidepressants for depression/anxiety, mood stabilizers for bipolar/IED, stimulants for ADHD. For IED: SSRIs, mood stabilizers, antipsychotics. **Rule out**: TSH, glucose, electrolytes.",
+        "psychological_interventions": "**CBT for anger management** (cognitive restructuring, anger triggers, coping skills). **DBT skills** (emotion regulation, distress tolerance, interpersonal effectiveness). Conflict resolution skills. Stress management. Relaxation techniques.",
+        "social_interventions": "Address environmental triggers. Family therapy for communication patterns. Anger management groups. Workplace interventions if work-related. Address substance use.",
+        "follow_up_monitoring": "Monitor frequency and intensity of irritability episodes. Assess for response to treatment. Monitor for aggression/violence. Re-evaluate if no improvement."
       },
       "faculty_pearls": [
-        "Consider Irritability within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "**In children and adolescents, irritability is often the primary presenting symptom of depression** rather than sadness - don't miss depression",
+        "**Irritability in context of elevated mood** suggests mania or mixed episode rather than depression",
+        "**Chronic irritability with mood lability and interpersonal difficulties** is characteristic of borderline personality disorder - think DBT",
+        "Differentiate **irritable mood** from **anger attacks** - the latter are discrete episodes with autonomic activation (tachycardia, flushing) and may indicate Intermittent Explosive Disorder"
       ]
     },
     "Increased Activity/Goal-Directed Behavior": {
@@ -328,301 +328,301 @@
   "Anxiety & Fear Presentations": {
     "Excessive Worry": {
       "assessment": {
-        "clarify_core": "Onset: When did excessive worry begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Excessive Worry. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Excessive Worry. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Duration (>6 months?), frequency (most days?), topics (multiple areas: health, finances, relationships, work) or single focus, control difficulty (can stop/redirect worry?), physical symptoms (tension, restlessness, fatigue, muscle aches, sleep disturbance)",
+        "screen_for_syndrome": "Depressive symptoms (low mood, anhedonia, suicidal thoughts). Panic attacks. OCD (obsessions as worry). PTSD (worry about future harm). Health anxiety. Substance use to manage worry.",
+        "rule_out_mimics": "**Hyperthyroidism** (TSH, tachycardia, weight loss, tremor), **cardiac arrhythmias** (ECG), **pheochromocytoma** (episodic HTN, headaches, sweating), **hypoglycemia** (diabetic, relieved by food). **Substance**: caffeine excess, stimulant use, alcohol withdrawal, cannabis. **Medication**: sympathomimetics, steroids, some antidepressants (activation).",
+        "psychosocial_context": "Chronic stressors, recent life changes (job, bereavement, relocation), family anxiety history, learned worry patterns (catastrophizing, intolerance of uncertainty), perfectionism, trauma history, cultural factors",
+        "risk_assessment": "Associated depression and suicide risk. Functional impairment: work, relationships, self-care. Substance use to manage worry (benzodiazepines, alcohol). Sleep deprivation from worry."
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Generalized Anxiety Disorder (GAD), Adjustment Disorder with Anxiety, Panic Disorder, OCD (worry as obsession), Depressive Disorder with anxious distress, PTSD (future-oriented worry), Illness Anxiety Disorder",
+        "secondary_mimics": "Hyperthyroidism, cardiac arrhythmias, pheochromocytoma, hypoglycemia, caffeine excess, stimulant effects, normal stress response, medical illness anxiety (organic disease)",
+        "red_flags": "Severe depression with suicidal ideation, panic attacks with agoraphobia, substance dependence, marked functional impairment, psychotic symptoms (worry about delusional content), autonomic hyperactivity suggesting medical cause"
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "Assess for depression and suicide risk. Address any acute crises. Screen for substance use to manage anxiety (benzodiazepines, alcohol).",
+        "biological_interventions": "**SSRIs first-line**: sertraline, escitalopram, paroxetine (start low, titrate over 2-4 weeks). **SNRIs**: venlafaxine XR, duloxetine. **Buspirone** (non-addictive, no sexual side effects). **Short-term benzos** for acute symptoms only (cautious, 2-4 weeks max). **Rule out**: TSH, ECG if cardiac symptoms.",
+        "psychological_interventions": "**CBT for GAD** (cognitive restructuring, worry exposure/triggering, problem-solving skills, relaxation training). **Mindfulness-Based Stress Reduction**. **Acceptance and Commitment Therapy**. Psychoeducation about anxiety (fight-flight-freeze, physiology).",
+        "social_interventions": "Stress management (time management, prioritization). Lifestyle modifications (regular exercise, sleep hygiene, limit caffeine/alcohol). Address chronic stressors. Family education about anxiety disorders. Support groups.",
+        "follow_up_monitoring": "Monitor with GAD-7 scale. Antidepressant response takes 4-6 weeks - manage expectations. Monitor for benzo dependence if prescribed. Regular follow-up initially (2-4 weeks). Minimum 6-12 months treatment."
       },
       "faculty_pearls": [
-        "Consider Excessive Worry within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "**GAD worry is excessive, difficult to control, and associated with multiple physical symptoms** - distinguish from normal stress",
+        "Patients with GAD often **'worry about worrying' (meta-worry)** - this is a key target in CBT",
+        "**Screen for depression** - comorbid depression is common (up to 60%) and requires combined treatment approach",
+        "**Physical exercise is an evidence-based adjunctive treatment** for GAD - often underutilized but effective as monotherapy for mild cases"
       ]
     },
     "Panic Attacks": {
       "assessment": {
-        "clarify_core": "Onset: When did panic attacks begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Panic Attacks. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Panic Attacks. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Onset of first attack, frequency (how often?), duration (typically 10-30 min, max 1 hour), triggers (specific situations/cues or unexpected/unexpected), symptoms: palpitations, sweating, trembling, shortness of breath, choking sensation, chest pain, nausea, dizziness, derealization/depersonalization, fear of dying/losing control/going crazy, chills/hot flushes",
+        "screen_for_syndrome": "Screen for **Panic Disorder**: recurrent unexpected attacks, worry about future attacks for \u22651 month, maladaptive behavior change (avoidance). Also screen for agoraphobia (fear of situations where escape difficult). Depression, substance use (benzodiazepines, alcohol).",
+        "rule_out_mimics": "**Cardiac conditions**: arrhythmias, myocardial infarction (chest pain, ECG changes, cardiac enzymes), MVP. **Pulmonary**: asthma, PE, pulmonary embolus. **Thyroid**: hyperthyroidism. **Neurological**: seizure (post-ictal anxiety), TIA. **Hypoglycemia** (diabetic). **Substance**: caffeine, stimulants, cannabis, alcohol withdrawal. **Medication**: sympathomimetics, steroids, some antidepressants.",
+        "psychosocial_context": "Recent stressors, trauma history (can trigger), family anxiety history, learned fear responses (classical conditioning), catastrophic thinking patterns, interoceptive conditioning (fear of bodily sensations), avoidance learning",
+        "risk_assessment": "Associated depression and suicide risk. **Agoraphobia**: avoidance driving work/school, leaving home. Substance use to prevent/manage attacks (benzodiazepines, alcohol). **Dangerous situations during attacks**: driving, operating machinery, heights, water."
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Panic Disorder with or without Agoraphobia, Other Specified Anxiety Disorder, Substance-Induced Anxiety Disorder, PTSD (panic attacks as symptom), Social Anxiety Disorder (situation-specific)",
+        "secondary_mimics": "Cardiac arrhythmias (SVT, atrial fibrillation), myocardial infarction, asthma, pulmonary embolism, hyperthyroidism, seizures (temporal lobe), hypoglycemia, pheochromocytoma, vestibular disorders, medication side effects",
+        "red_flags": "**Chest pain with cardiac risk factors** (age, hypertension, diabetes, smoking, family history) \u2192 rule out MI first. **Shortness of breath with respiratory disease/PE risk**. **Neurological deficits** (focal weakness, speech changes). **Loss of consciousness**. **Persistent symptoms beyond panic attack duration**"
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "**Rule out medical emergencies** (cardiac, pulmonary) first - don't assume anxiety. Safety during attacks - avoid driving if frequent. Assess depression/suicide risk. Address substance use (benzo, alcohol).",
+        "biological_interventions": "**SSRIs first-line**: sertraline, paroxetine, escitalopram (effective for panic, prevent anticipatory anxiety). **SNRIs**: venlafaxine XR. **Short-term benzos** (alprazolam, clonazepam) for acute symptom control - use sparingly, 2-4 weeks. **Rule out**: ECG, TSH, CXR if respiratory symptoms.",
+        "psychological_interventions": "**CBT for panic** (psychoeducation about panic physiology - 'fight or flight', interoceptive exposure - deliberately inducing symptoms to extinguish fear, cognitive restructuring of catastrophic beliefs, breathing retraining). **Panic control techniques** for acute attacks. Gradual exposure to avoided situations (in vivo).",
+        "social_interventions": "Gradual exposure to avoided situations with support person. Family education about panic disorder (not 'crazy', treatable). Support for agoraphobia recovery. Address substance dependence.",
+        "follow_up_monitoring": "Monitor attack frequency and severity. Antidepressant response 4-6 weeks - start before titrating benzos down. **Taper benzos once CBT effective** - risk of dependence. Regular follow-up. Minimum 6-12 months treatment."
       },
       "faculty_pearls": [
-        "Consider Panic Attacks within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "**Always consider cardiac causes first** in patients with chest pain and panic symptoms - don't attribute to anxiety prematurely, especially in older patients or cardiac risk factors",
+        "**Interoceptive exposure** (deliberately inducing physical sensations: hyperventilation, spinning, etc.) is key CBT technique for panic - patients learn sensations aren't dangerous",
+        "**Patients often develop avoidance (agoraphobia)** - early intervention prevents disability, treat both panic and avoidance",
+        "**Benzodiazepine dependence risk high** in panic disorder - use short-term with clear plan to taper once CBT/SSRIs effective"
       ]
     },
     "Palpitations/Breathlessness": {
       "assessment": {
-        "clarify_core": "Onset: When did palpitations/breathlessness begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Palpitations/Breathlessness. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Palpitations/Breathlessness. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Onset, frequency, duration, precipitating factors (exercise, stress, rest, position), associated symptoms: chest pain, sweating, dizziness, syncope, anxiety/fear, triggers (thoughts, situations, spontaneous)",
+        "screen_for_syndrome": "Panic disorder (with other panic symptoms). Anxiety disorders (GAD, social anxiety). Depression. Cardiac risk factors assessment. Respiratory history. Substance use (stimulants, nicotine, caffeine, alcohol withdrawal).",
+        "rule_out_mimics": "**Cardiac**: arrhythmias (PSVT, AFib, VT), MI, MVP, cardiomyopathy. **Pulmonary**: asthma, COPD, PE, pneumothorax. **Thyroid**: hyperthyroidism. **Anemia** (tachycardia, breathlessness on exertion). **Substance**: caffeine, stimulants, nicotine, alcohol withdrawal. **Medication**: beta-agonists, theophylline, sympathomimetics.",
+        "psychosocial_context": "Anxiety-provoking situations (social, work, health), catastrophic health beliefs, interoceptive hypersensitivity, trauma history (medical trauma), health anxiety.",
+        "risk_assessment": "Cardiac emergency risk (chest pain with red flags). Respiratory emergency. Anxiety-driven self-harm. Driving safety if symptomatic."
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Panic Disorder, GAD, Social Anxiety Disorder, Illness Anxiety Disorder, Depression with somatic symptoms, Somatic Symptom Disorder",
+        "secondary_mimics": "Cardiac arrhythmias, myocardial infarction, asthma, COPD, pulmonary embolism, hyperthyroidism, anemia, deconditioning, medication side effects",
+        "red_flags": "**Chest pain with radiation, diaphoresis, nausea**, cardiac risk factors \u2192 rule out MI. **Sudden severe breathlessness with pleuritic pain** \u2192 PE. **Syncope, arrhythmia on ECG**. **Wheezing, past asthma/COPD** \u2192 respiratory cause"
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "**Rule out cardiac/pulmonary emergencies** first. ECG, CXR, cardiac enzymes if indicated. Safety - avoid driving if symptomatic.",
+        "biological_interventions": "Treat underlying anxiety/panic: SSRIs, SNRIs. **Beta-blockers** (propranolol) for performance anxiety or situational - helps with physical symptoms. **Benzos** short-term for acute. **Treat medical causes**: antiarrhythmics, bronchodilators, antithyroid if hyperthyroidism.",
+        "psychological_interventions": "CBT for anxiety/panic. Interoceptive exposure. Breathing retraining. Cognitive restructuring of health beliefs. Relaxation techniques.",
+        "social_interventions": "Address anxiety-provoking situations. Gradual exposure. Family support. Lifestyle: limit caffeine/stimulants.",
+        "follow_up_monitoring": "Monitor frequency of symptoms. Cardiac/pulmonary follow-up if medical cause. Monitor anxiety treatment response."
       },
       "faculty_pearls": [
-        "Consider Palpitations/Breathlessness within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "**Palpitations and breathlessness are somatic symptoms that can be psychiatric or medical** - always rule out organic causes first, especially cardiac",
+        "**Beta-blockers (propranolol)** are particularly helpful for performance anxiety - reduce somatic symptoms without sedation",
+        "**Interoceptive exposure** is key for anxiety-driven palpitations - learning that heart racing isn't dangerous",
+        "**Consider asthma or COPD** in patients with breathlessness and anxiety - anxiety can exacerbate respiratory symptoms creating cycle"
       ]
     },
     "Fear of Dying/Losing Control": {
       "assessment": {
-        "clarify_core": "Onset: When did fear of dying/losing control begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Fear of Dying/Losing Control. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Fear of Dying/Losing Control. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Context (during panic attack vs chronic fear), duration, frequency, triggers (situations, thoughts, physical sensations), associated symptoms (palpitations, breathlessness, derealization), impact on behavior (avoidance, safety-seeking, checking)",
+        "screen_for_syndrome": "Panic disorder (fear of dying/going crazy is classic). Depression with hopelessness. Psychosis (delusions of dying, persecution). PTSD (fear of harm, flashbacks). OCD (death contamination fears). Health anxiety.",
+        "rule_out_mimics": "**Cardiac**: arrhythmias, MI (can cause fear of dying during event). **Neurological**: TIA/stroke (fear during event). **Respiratory**: severe asthma/PE (air hunger). **Hypoglycemia** (confusion, fear). **Substance**: hallucinogens (bad trips), stimulants, cannabis. **Delirium**.",
+        "psychosocial_context": "Trauma history (medical trauma, witnessed death), catastrophic thinking, health anxiety, religious/spiritual beliefs about death, previous panic attacks conditioning fear, family history of anxiety",
+        "risk_assessment": "Panic-driven dangerous behavior (fleeing, reckless driving). Suicide risk if hopelessness present. Self-harm. Medical avoidance (not seeking help due to fear)."
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Panic Disorder, GAD, Illness Anxiety Disorder, PTSD, OCD (death-related obsessions), Depression with suicidal thoughts, Specific Phobia (death, illness)",
+        "secondary_mimics": "Medical emergencies (MI, PE, severe asthma, hypoglycemia), substance effects, delirium, medication side effects, normal fear response",
+        "red_flags": "**Psychotic features** (delusions of death, voices commanding death). **Catatonia**. **Severe depression with active suicide plan**. **Medical emergency** (acute cardiac/pulmonary event)"
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "Rule out medical emergency if fear during physical symptoms. Assess suicide risk if hopelessness present. Address panic attack.",
+        "biological_interventions": "Treat underlying: SSRIs for panic/anxiety. Antipsychotics if psychosis. Treat medical causes. Rule out delirium.",
+        "psychological_interventions": "CBT for panic (psychoeducation, cognitive restructuring of death/control fears). Exposure therapy. Mindfulness. PTSD processing if trauma-related.",
+        "social_interventions": "Safety during panic. Education about panic physiology. Family support. Address avoidance.",
+        "follow_up_monitoring": "Monitor frequency and intensity. Assess treatment response. Monitor suicide risk."
       },
       "faculty_pearls": [
-        "Consider Fear of Dying/Losing Control within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "**Fear of dying/going crazy is classic panic attack symptom** - reassure patients about panic physiology",
+        "**Rule out medical emergencies first** if fear occurs with physical symptoms - don't dismiss as anxiety",
+        "**Catastrophic health beliefs** maintain fear - CBT cognitive restructuring essential",
+        "**In OCD**, death fears are obsessions (intrusive, ego-dystonic) unlike panic (acute, spontaneous)"
       ]
     },
     "Avoidance Behavior": {
       "assessment": {
-        "clarify_core": "Onset: When did avoidance behavior begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Avoidance Behavior. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Avoidance Behavior. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Onset, specific situations avoided (social, specific phobias, panic triggers, trauma reminders), extent of avoidance (mild inconvenience to severe disability), insight into avoidance, impact on functioning (work, school, relationships), coping strategies used",
+        "screen_for_syndrome": "Panic disorder with agoraphobia. Social anxiety disorder. Specific phobias. PTSD (avoidance of trauma reminders). OCD (avoidance of contamination). GAD (situational avoidance). Depression (withdrawal).",
+        "rule_out_mimics": "Medical limitations (mobility issues, pain, fatigue). Neurological conditions. Sensory deficits. Cognitive impairment (dementia).",
+        "psychosocial_context": "Trauma history, negative experiences (humiliation, bullying), family modeling of avoidance, catastrophic expectations, learned helplessness, low self-efficacy, cultural factors",
+        "risk_assessment": "Functional impairment (work, education, social isolation). Safety risks (driving, dangerous situations while anxious). Depression secondary to isolation. Self-neglect."
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Agoraphobia (with or without panic), Social Anxiety Disorder, Specific Phobias, PTSD, OCD, GAD, Adjustment Disorder with Avoidance, Autism Spectrum (social avoidance)",
+        "secondary_mimics": "Medical disabilities, chronic pain, fatigue syndromes, neurological conditions, sensory impairments, cognitive impairment",
+        "red_flags": "**Severe social isolation** with depression. **Complete inability to leave home** for prolonged period. **Suicidal ideation** with hopelessness. **Self-neglect**."
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "Assess functional impairment. Address depression if present. Evaluate for medical causes of inability to participate.",
+        "biological_interventions": "SSRIs for anxiety disorders. Beta-blockers for performance anxiety. Treat underlying depression. Rule out medical causes.",
+        "psychological_interventions": "**Exposure therapy** (graded, systematic, in vivo). CBT for anxiety. Social skills training for social anxiety. PTSD processing if applicable.",
+        "social_interventions": "Gradual exposure support. Family education. Address environmental barriers. Support groups. Vocational/educational accommodations.",
+        "follow_up_monitoring": "Monitor reduction in avoidance. Functional improvement. Assess treatment response."
       },
       "faculty_pearls": [
-        "Consider Avoidance Behavior within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "**Avoidance maintains anxiety** through negative reinforcement - exposure is essential treatment",
+        "**Graded exposure** (starting with least feared, gradually increasing) is most effective approach",
+        "**Functional impairment from avoidance** is often greater impairment than anxiety symptoms themselves",
+        "**Agoraphobia** can develop secondary to panic attacks - treat both panic and avoidance"
       ]
     },
     "Phobic Fear (Social/Specific)": {
       "assessment": {
-        "clarify_core": "Onset: When did phobic fear (social/specific) begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Phobic Fear (Social/Specific). Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Phobic Fear (Social/Specific). Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Specific feared situations (social: performance, interaction, scrutiny; specific: animals, heights, blood, injections, enclosed spaces), duration (>6 months for specific, >6 months for social), anticipatory anxiety, physical symptoms when exposed, avoidance behavior, impact on functioning, insight (recognizes fear excessive?)",
+        "screen_for_syndrome": "Other anxiety disorders (panic, GAD, OCD). Depression (secondary to avoidance). Autism spectrum (social difficulties). Substance use to manage situations.",
+        "rule_out_mimics": "Medical conditions (mobility issues, pain, respiratory conditions making certain situations dangerous). Neurological conditions. Sensory deficits.",
+        "psychosocial_context": "Traumatic experiences with feared object/situation. Learning history (classical conditioning). Family modeling (parent with same phobia). Cultural factors. Social skills deficits.",
+        "risk_assessment": "Functional impairment (education, career missed). Social isolation. Depression. Substance use. Dangerous situations (avoiding medical care, driving)."
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Specific Phobia, Social Anxiety Disorder, Agoraphobia, OCD (phobic avoidance), PTSD (avoidance of trauma cues), Autism Spectrum Disorder (social difficulties)",
+        "secondary_mimics": "Medical conditions causing limitations, sensory impairments, neurological conditions, normal fear responses (developmentally appropriate)",
+        "red_flags": "**Complete social isolation** with depression. **Refusal of essential medical care** due to phobia (blood, injections). **Severe functional impairment**. **Suicidal ideation**."
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "Assess functional impairment. Address essential care refusal. Evaluate for depression.",
+        "biological_interventions": "SSRIs for specific/social phobias. Beta-blockers (propranolol) for performance anxiety. Benzodiazepines short-term for exposure sessions.",
+        "psychological_interventions": "**Exposure therapy** (systematic desensitization, flooding, virtual reality). CBT (cognitive restructuring). Social skills training for social anxiety. Applied relaxation techniques.",
+        "social_interventions": "Gradual exposure support. Family education. Address functional accommodations temporarily. Support groups.",
+        "follow_up_monitoring": "Monitor reduction in fear response. Functional improvement. Assess treatment response."
       },
       "faculty_pearls": [
-        "Consider Phobic Fear (Social/Specific) within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "**Exposure is the gold standard treatment** for phobias - single session can be effective for specific phobias",
+        "**Virtual reality exposure** increasingly available for specific phobias (heights, flying, animals)",
+        "**Social anxiety involves fear of negative evaluation** - CBT focuses on cognitive distortions about scrutiny",
+        "**Performance anxiety** responds well to beta-blockers (propranolol) - reduces somatic symptoms without affecting cognition"
       ]
     },
     "Obsessions": {
       "assessment": {
-        "clarify_core": "Onset: When did obsessions begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Obsessions. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Obsessions. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Content of obsessions (contamination, symmetry/ordering, harm (sexual, violent, religious), forbidden thoughts, somatic), frequency, duration, distress (ego-dystonic vs ego-syntonic), attempts to resist/neutralize, time consumed (>1 hr/day?), functional impact",
+        "screen_for_syndrome": "**OCD**: compulsions present or mental acts? Screening for tics (distinguish from compulsions). Depression (common comorbidity). Other anxiety disorders. Psychosis (delusions vs obsessions). Schizotypal (magical thinking).",
+        "rule_out_mimics": "**Neurological**: Tourette's (tics, preceded by premonitory urge), Parkinson's (involuntary movements), basal ganglia disorders. **Encephalitis**. **Substance**: stimulants, hallucinogens, amphetamines. **Medication**: dopamine agonists.",
+        "psychosocial_context": "Family OCD history, trauma (sometimes triggers), stress exacerbates, personality traits (perfectionism, high responsibility), religious/cultural factors, learned behaviors",
+        "risk_assessment": "Severe distress leading to self-harm/suicide. Harm obsessions (fear of acting on violent/sexual thoughts). Functional impairment. Compulsive behaviors causing physical harm (washing, checking). Substance use to manage distress."
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "OCD, OCD spectrum disorders (body dysmorphic disorder, hoarding, trichotillomania, excoriation disorder), Depressive disorder with ruminations, GAD (worry), Psychosis (delusions), Schizotypal PD, Tourette's disorder",
+        "secondary_mimics": "Tourette's syndrome (tics vs compulsions), neurological conditions, stimulant effects, medication side effects, cultural/religious practices",
+        "red_flags": "**Psychotic features** (fixed delusions, hallucinations). **Harm obsessions with violent thoughts** - assess risk. **Severe depression with suicidality**. **Physical harm from compulsions**"
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "Assess for harm risk (to self or others). Evaluate severe distress/suicidality. Address functional impairment.",
+        "biological_interventions": "**First-line SSRIs**: high dose often needed (fluoxetine, sertraline, paroxetine, fluvoxamine). **Clomipramine** (TCA) for refractory cases. **Antipsychotics** (risperidone, haloperidol) as augmentation for refractory OCD. **Deep TMS** for refractory.",
+        "psychological_interventions": "**ERP (Exposure and Response Prevention)** - gold standard, first-line. CBT (cognitive restructuring of obsessions). ACT (acceptance-based approach). Habit reversal training.",
+        "social_interventions": "Family education (OCD is brain disorder, not choice). Accommodation reduction (family doesn't help compulsions). Support groups. Address functional impairment.",
+        "follow_up_monitoring": "Monitor obsession/compulsion severity (Y-BOCS). High-dose SSRI trial (10-12 weeks). Consider augmentation if partial response. Long-term management typically needed."
       },
       "faculty_pearls": [
-        "Consider Obsessions within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "**Obsessions are ego-dystonic** (patient recognizes as unreasonable, distressing) - distinguishes from delusions (ego-syntonic, believed as true)",
+        "**High-dose, long-duration SSRI trials** needed for OCD - often higher than depression doses, 10-12 weeks minimum",
+        "**ERP (Exposure and Response Prevention)** is the gold standard treatment - often more effective than medication alone",
+        "**Harm obsessions** are common in OCD but patients rarely act on them - reassure about ego-dystonic nature"
       ]
     },
     "Compulsions": {
       "assessment": {
-        "clarify_core": "Onset: When did compulsions begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Compulsions. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Compulsions. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Specific compulsive behaviors (washing/cleaning, checking, repeating, ordering/arranging, counting, hoarding, mental rituals), premonitory urges (preceding compulsions), relief/neutralization, frequency, duration, time consumed (>1 hr/day?), awareness of excessiveness?, functional impact",
+        "screen_for_syndrome": "**OCD**: obsessions present? (most compulsions in OCD have obsessions, but can be primary). **Tourette's**: tics (preceded by premonitory urge, can be suppressed temporarily). Body-focused repetitive behaviors (BFRBs: trichotillomania, excoriation, nail-biting). Depression.",
+        "rule_out_mimics": "**Tourette's syndrome** (tics vs compulsions). **Neurological**: stereotypies in developmental disorders, Parkinson's (repetitive behaviors). **Substance**: stimulants, amphetamines. **Medication**: dopamine agonists (levodopa-induced stereotypies).",
+        "psychosocial_context": "Family OCD/tic history, stress exacerbates, learned behaviors, personality traits (perfectionism, need for control), reinforcement of compulsions (family accommodation)",
+        "risk_assessment": "Physical harm from compulsions (skin damage from washing/excoriation, injury from checking). Functional impairment (time consumed). Self-harm from distress. Depression."
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "OCD, Tourette's disorder, Body-Focused Repetitive Behaviors (trichotillomania, excoriation disorder), Stereotypic Movement Disorder (in neurodevelopmental disorders), Autism spectrum (stereotypies)",
+        "secondary_mimics": "Tourette's syndrome, neurological conditions, stimulant effects, medication side effects, cultural/religious practices",
+        "red_flags": "**Psychotic features** (compulsive behavior driven by delusions). **Severe physical harm** (infection, skin breakdown). **Complete functional impairment**. **Depression with suicidality**"
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "Address physical harm from compulsions. Assess for depression/suicidality. Evaluate functional impairment.",
+        "biological_interventions": "For OCD: high-dose SSRIs. For Tourette's: alpha-2 agonists (guanfacine, clonidine), antipsychotics (haloperidol, risperidone). For BFRBs: N-acetylcysteine, SSRIs, habit reversal.",
+        "psychological_interventions": "**ERP** for OCD. **Habit Reversal Training (HRT)** for tics/BFRBs. CBT. Behavioral interventions. Response prevention strategies.",
+        "social_interventions": "Family education (reduce accommodation). Address functional consequences. Support groups. Protective measures for harmful compulsions.",
+        "follow_up_monitoring": "Monitor compulsion frequency (Y-BOCS). Assess treatment response. Monitor for physical complications."
       },
       "faculty_pearls": [
-        "Consider Compulsions within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "**Distinguish compulsions from tics**: compulsions are purposeful (reduce anxiety), tics are semi-voluntary movements with premonitory urge",
+        "**Family accommodation** (helping with compulsions) maintains OCD - reduce accommodation as part of treatment",
+        "**Habit Reversal Training** is effective for tics and BFRBs - awareness, competing response, social support",
+        "**Physical harm from compulsions** (excoriation, washing injuries) requires medical management alongside psychiatric treatment"
       ]
     }
   },
   "Thought Disturbances": {
     "Hearing Voices": {
       "assessment": {
-        "clarify_core": "Onset: When did hearing voices begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Hearing Voices. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Hearing Voices. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Onset, frequency (continuous vs episodic), content (commands, comments, conversations, criticism), location (inside vs outside head), number of voices, loudness, gender familiarity, distress level, control (can ignore?), insight (believes real vs recognizes hallucination)",
+        "screen_for_syndrome": "Screen for **psychotic disorders**: schizophrenia (negative symptoms, disorganization), schizoaffective (mood symptoms + psychosis), brief psychotic disorder, mood disorder with psychotic features. Also assess for mood disorders (bipolar depression, severe mania), PTSD (combat trauma), substance-induced psychosis, neurological conditions.",
+        "rule_out_mimics": "**Neurological**: temporal lobe epilepsy (ictal psychosis), stroke, brain tumors, encephalitis. **Substance**: alcohol hallucinosis, stimulants (cocaine, amphetamines), hallucinogens (LSD, psilocybin), cannabis (acute), deliriants. **Medication**: anticholinergics, dopamine agonists (levodopa), antiparkinsonians. **Medical**: delirium (especially in elderly), severe sensory deprivation, Charles Bonnet syndrome (visual).",
+        "psychosocial_context": "Trauma history (combat, assault), family psychosis history, social isolation, migration/urbanicity risk factors, substance use, sleep deprivation, stress",
+        "risk_assessment": "**Command hallucinations**: patient acting on commands? Harm to self/others? Suicidal/homicidal ideation driven by voices. Insight level (protective vs risk). Compliance with safety. History of violence when symptomatic."
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Schizophrenia, Schizoaffective Disorder, Brief Psychotic Disorder, Delusional Disorder, Mood Disorder with Psychotic Features (Bipolar, Severe Depression), Substance-Induced Psychotic Disorder",
+        "secondary_mimics": "Temporal lobe epilepsy, stroke, brain tumors, encephalitis, delirium, substance intoxication/withdrawal, medication side effects, severe sensory deprivation",
+        "red_flags": "**Command hallucinations with dangerous content**, poor insight, history of acting on voices, acute onset with focal neurological signs (seizure/stroke), delirium in elderly (medical emergency), catatonia"
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "Assess danger to self/others from command hallucinations. If high risk: involuntary admission, remove weapons, close observation. Determine insight level. Rule out delirium (medical emergency).",
+        "biological_interventions": "**Antipsychotics first-line**: second-generation (risperidone, olanzapine, quetiapine, aripiprazole, ziprasidone). Consider depot formulation if adherence issues. **ECG** before/atypical antipsychotics (QTc). **MRI/EEG** if neurological symptoms or atypical presentation. Treat underlying medical causes.",
+        "psychological_interventions": "**CBT for psychosis** (normalizing, coping strategies, challenging beliefs about voices). **Compliance therapy** (medication adherence). Family psychoeducation. Social skills training. Stress management.",
+        "social_interventions": "Family education and support. Supported housing/employment programs. Reduce expressed emotion (family communication). Address social determinants (housing, income).",
+        "follow_up_monitoring": "Monitor psychosis severity (PANSS, BPRS). Monitor antipsychotic side effects (EPS, metabolic, prolactin, QTc). Regular follow-up (weekly to monthly initially). Long-term maintenance typically needed for schizophrenia."
       },
       "faculty_pearls": [
-        "Consider Hearing Voices within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "**Command hallucinations are high-risk** - must assess if patient acts on voices",
+        "Poor insight in schizophrenia is **neurological symptom**, not denial or stubbornness - affects adherence",
+        "**Second-generation antipsychotics** better for negative symptoms but higher metabolic risk - monitor weight, glucose, lipids",
+        "**Family education and reducing expressed emotion** significantly improves outcomes and relapse rates"
       ]
     },
     "Delusions (Persecution/Reference/Grandeur)": {
       "assessment": {
-        "clarify_core": "Onset: When did delusions (persecution/reference/grandeur) begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Delusions (Persecution/Reference/Grandeur). Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Delusions (Persecution/Reference/Grandeur). Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Content (persecution: being followed, poisoned, harmed; reference: TV talking about them, special messages; grandeur: special powers, divine connection, famous identity), conviction level (fixed vs doubtful), distress, behavior changes (avoidance, safety measures, aggression), insight",
+        "screen_for_syndrome": "Screen for **psychotic disorders**: schizophrenia (other psychotic symptoms, negative symptoms, disorganization), schizoaffective (mood + psychosis), delusional disorder (non-bizarre, mood-congruent possible), mood disorder with psychotic features (bipolar mania, severe depression), brief psychotic disorder. Also consider dementia, delirium.",
+        "rule_out_mimics": "**Neurological**: temporal lobe epilepsy, stroke (especially right parietal), brain tumors, encephalitis. **Medical**: hypothyroidism (rare), vitamin B12 deficiency, neurosyphilis, HIV, autoimmune encephalitis. **Substance**: stimulants, cannabis (high potency), hallucinogens, alcohol withdrawal. **Medication**: corticosteroids, dopamine agonists, anticholinergics. **Sensory**: Charles Bonnet (visual hallucinations).",
+        "psychosocial_context": "Migration/urbanicity, social isolation, trauma, family psychosis history, substance use, cultural factors (some delusions influenced by cultural beliefs)",
+        "risk_assessment": "Persecutory delusions \u2192 risk of **preemptive violence** (defensive aggression against perceived persecutor). Command delusions if present. Suicide risk if despair. Self-harm from false beliefs (e.g., removing 'poisoned' limb). Non-compliance with treatment due to delusions."
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Schizophrenia, Delusional Disorder, Schizoaffective Disorder, Mood Disorder with Psychotic Features (Bipolar Mania, Severe Depression), Brief Psychotic Disorder, Shared Psychotic Disorder (folie \u00e0 deux)",
+        "secondary_mimics": "Temporal lobe epilepsy, stroke, brain tumors, encephalitis, dementia, delirium, substance intoxication/withdrawal, medication side effects, severe sensory deprivation",
+        "red_flags": "Violence risk from persecutory delusions, catatonia, mood-incongruent delusions (schizoaffective vs schizophrenia), rapid onset (delirium), neurological focal signs, suicidal/homicidal intent from delusional beliefs"
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "Assess for violence risk (preemptive aggression against persecutor). If high risk: involuntary admission, remove weapons, ensure safety. Assess suicide risk. Rule out delirium (medical emergency).",
+        "biological_interventions": "**Antipsychotics**: second-generation (risperidone, olanzapine, quetiapine, aripiprazole). Consider depot if adherence poor. **ECG** before atypicals. **MRI** if atypical or neurological signs. Treat medical causes if found.",
+        "psychological_interventions": "CBT for psychosis (challenging delusional beliefs, coping strategies). Compliance therapy. Family psychoeducation (don't argue delusions, validate distress). Social skills training.",
+        "social_interventions": "Family support and education. Address safety concerns realistically. Community support. Reduce expressed emotion. Legal/advocacy support if involuntary.",
+        "follow_up_monitoring": "Monitor delusional conviction and severity. Monitor side effects. Regular follow-up. Long-term treatment needed for primary psychotic disorders."
       },
       "faculty_pearls": [
-        "Consider Delusions (Persecution/Reference/Grandeur) within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "**Don't argue delusional beliefs** - validates patient's reality, damages rapport, increases distress",
+        "**Persecutory delusions carry violence risk** - assess preemptive aggression against perceived persecutor",
+        "**Mood-incongruent delusions** suggest schizoaffective disorder rather than schizophrenia",
+        "**Depot antipsychotics** improve adherence in poor-insight patients - consider early"
       ]
     },
     "Disorganized Speech": {
       "assessment": {
-        "clarify_core": "Onset: When did disorganized speech begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Disorganized Speech. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Disorganized Speech. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Onset (acute vs insidious), speech characteristics (loose associations, tangentiality, derailment, incoherence, neologisms, word salad), communicative impact (understandability), associated thought disorder (flight of ideas, thought blocking), negative symptoms (alogia, affective flattening)",
+        "screen_for_syndrome": "Screen for **thought disorder** in context of psychotic disorder: schizophrenia (negative symptoms, hallucinations, delusions), schizoaffective (mood symptoms), brief psychotic disorder, mania (pressured speech, flight of ideas). Also consider dementia, delirium, stroke (aphasia), substance-induced.",
+        "rule_out_mimics": "**Neurological**: stroke (Wernicke's, transcortical aphasia), TIA, brain tumors, encephalitis. **Medical**: delirium (acute confusion), hypoglycemia. **Substance**: stimulants, hallucinogens, alcohol withdrawal. **Medication**: anticholinergics, sedatives. **Developmental**: language disorders, autism spectrum.",
+        "psychosocial_context": "Family schizophrenia history, migration/urbanicity, substance use, stress, sleep deprivation, developmental history",
+        "risk_assessment": "Communication difficulty impacting self-care, medication adherence. Suicidal ideation. Insight level. Safety if behavior disorganized."
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Schizophrenia (formal thought disorder), Schizoaffective Disorder, Manic Episode (pressured speech), Brief Psychotic Disorder, Schizotypal Personality Disorder",
+        "secondary_mimics": "Stroke/aphasia, delirium, dementia, encephalitis, substance intoxication/withdrawal, medication side effects, developmental language disorders, autism spectrum",
+        "red_flags": "**Acute onset** \u2192 delirium (medical emergency). **Focal neurological signs** \u2192 stroke/tumor. **Catatonia**. **Severe disorganization with dangerous behavior**"
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "Rule out delirium (medical emergency). Assess for dangerous behavior from disorganization. Ensure basic needs met if severe.",
+        "biological_interventions": "Antipsychotics for psychotic thought disorder. Treat underlying mania (mood stabilizers). Treat medical causes (delirium: infection, metabolic).",
+        "psychological_interventions": "CBT for psychosis (improving communication, reality testing). Speech and language therapy if neurological component. Occupational therapy.",
+        "social_interventions": "Family education about communication difficulties. Supported communication strategies. Functional support.",
+        "follow_up_monitoring": "Monitor thought disorder severity. Monitor treatment response. Side effects."
       },
       "faculty_pearls": [
-        "Consider Disorganized Speech within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "**Formal thought disorder is hallmark of schizophrenia** - distinguishes from other psychotic disorders",
+        "Distinguish **disorganized speech** from **pressured speech** of mania - latter is rapid but coherent",
+        "**Aphasia** (neurological) has preserved comprehension, whereas thought disorder impairs coherence with intact comprehension",
+        "**Delirium presents with acute onset and fluctuating consciousness** - medical emergency, rule out first"
       ]
     },
     "Suspiciousness": {
@@ -901,29 +901,29 @@
   "Cognitive & Memory Presentations": {
     "Poor Concentration": {
       "assessment": {
-        "clarify_core": "Onset: When did poor concentration begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Poor Concentration. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Poor Concentration. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Onset (acute vs insidious), duration, specific difficulties (sustained attention, divided attention, selective attention), context (worse with stress, fatigue, noise, specific tasks), impact on work/academic performance, reading comprehension",
+        "screen_for_syndrome": "Depressive symptoms (low mood, anhedonia, fatigue). Anxiety (worry, somatic symptoms). ADHD (lifelong pattern, hyperactive/impulsive in childhood). PTSD (hypervigilance interferes with concentration). Sleep deprivation. Substance use. Medical causes.",
+        "rule_out_mimics": "**Depression**, **anxiety disorders**, **ADHD**, **PTSD**, **bipolar depression**, sleep deprivation, substance use, hypothyroidism, anemia, vitamin deficiencies, medications (antihistamines, benzos, antiepileptics), neurological conditions (stroke, TBI, dementia).",
+        "psychosocial_context": "Stress/burnout, recent losses, sleep deprivation, substance use, workplace demands, academic pressure, family responsibilities, trauma history",
+        "risk_assessment": "Functional impairment (work, academic performance, driving safety). Depression/suicide risk if present. Substance-related risks."
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Depressive Disorders, ADHD (inattentive type), GAD, PTSD, Bipolar Depression, Sleep Disorders, Substance-Related Disorders",
+        "secondary_mimics": "Hypothyroidism, anemia, sleep deprivation, medication side effects, neurological conditions (stroke, TBI, early dementia), delirium",
+        "red_flags": "Acute onset with neurological symptoms, confusion, memory loss, focal deficits \u2192 neurological emergency. Suicidal ideation. Severe functional impairment."
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "Address safety if concentration affects driving/work. Screen for depression/suicide. Rule out acute medical causes.",
+        "biological_interventions": "Treat underlying disorder: antidepressants for depression, stimulants for ADHD, anxiolytics for anxiety. Rule out: TSH, CBC, sleep study if indicated. Review medications.",
+        "psychological_interventions": "CBT for ADHD/executive dysfunction, CBT for anxiety/depression, cognitive rehabilitation, mindfulness training, organizational skills, sleep hygiene.",
+        "social_interventions": "Workplace/academic accommodations. Environmental modifications (reduce distractions). Support systems. Time management training.",
+        "follow_up_monitoring": "Monitor functional improvement. Medication response (ADHD: 2-4 weeks; depression: 4-6 weeks). Regular follow-up."
       },
       "faculty_pearls": [
-        "Consider Poor Concentration within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "Distinguish ADHD from adult-onset concentration problems - ADHD requires childhood symptoms",
+        "Depression and anxiety commonly present with concentration - treat underlying mood/anxiety",
+        "Sleep deprivation can mimic ADHD - always assess sleep before stimulant prescription",
+        "Medication side effects (antihistamines, benzos) commonly cause concentration problems"
       ]
     },
     "Memory Loss": {
@@ -1119,29 +1119,29 @@
   "Sleep, Appetite & Somatic Presentations": {
     "Insomnia (Early, Middle, Late)": {
       "assessment": {
-        "clarify_core": "Onset: When did insomnia (early, middle, late) begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Insomnia (Early, Middle, Late). Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Insomnia (Early, Middle, Late). Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Pattern: early morning awakening (with inability to return to sleep), middle-of-night awakenings, difficulty falling asleep (sleep latency >30 min). Duration (>1 month for chronic), frequency (nights/week), bedtime/waketime routines, napping habits, sleep environment, daytime consequences (fatigue, impairment)",
+        "screen_for_syndrome": "Depressive symptoms (early morning awakening is hallmark). Anxiety (racing thoughts at bedtime). Mania (decreased sleep need). Substance use (caffeine, alcohol, stimulants). Medical conditions (pain, nocturia, RLS, apnea symptoms). Circadian rhythm disorders.",
+        "rule_out_mimics": "**Sleep apnea** (snoring, witnessed apneas, daytime sleepiness, obesity), **RLS** (uncomfortable leg sensations relieved by movement), **PLMD**, **circadian rhythm disorders**, chronic pain, **nocturia** (BPH, diabetes), hyperthyroidism, medications (stimulants, steroids, antidepressants), substance use (caffeine, alcohol, nicotine).",
+        "psychosocial_context": "Stress/anxiety/worry at bedtime, poor sleep hygiene, irregular schedule, shift work, life stressors, depression, learned insomnia behaviors (conditioned arousal at bedtime)",
+        "risk_assessment": "Daytime impairment (driving safety, work errors), fall risk in elderly, depression/suicide, substance use as coping"
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Insomnia Disorder (psychophysiological, idiopathic), Depressive Disorder, Anxiety Disorders, Circadian Rhythm Disorders, Substance-Induced Sleep Disorder",
+        "secondary_mimics": "Sleep apnea, RLS/PLMD, circadian rhythm disorders, chronic pain, medical conditions causing sleep disruption, medication side effects",
+        "red_flags": "Loud snoring + daytime sleepiness + witnessed apneas \u2192 OSA (medical, treatable). Sleepwalking/harmful behaviors \u2192 parasomnia. Suicidal ideation with early morning awakening."
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "Assess for depression/suicide risk (early morning awakening is red flag). Address safety (driving, work errors). Screen for OSA if risk factors.",
+        "biological_interventions": "**CBT-I is first-line** (not medications). Short-term hypnotics: z-drugs (zolpidem, zopiclone) or benzos (2-4 weeks max). Melatonin for circadian issues. Treat depression/anxiety with SSRIs. Refer for sleep study if OSA suspected.",
+        "psychological_interventions": "**CBT for Insomnia (CBT-I)**: stimulus control, sleep restriction, cognitive restructuring, relaxation techniques. Sleep hygiene education. Worry management.",
+        "social_interventions": "Establish regular sleep schedule. Optimize sleep environment. Address shift work if applicable. Family education.",
+        "follow_up_monitoring": "Monitor sleep diary (sleep latency, efficiency, awakenings). CBT-I response typically 6-8 sessions. Taper hypnotics once CBT effective."
       },
       "faculty_pearls": [
-        "Consider Insomnia (Early, Middle, Late) within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "**CBT-I is more effective long-term than hypnotics** and has no dependence risk",
+        "Always screen for **sleep apnea** in chronic insomnia - it's common, dangerous, and treatable",
+        "**Early morning awakening** with inability to return to sleep is hallmark of depression",
+        "Hypnotics should be **short-term only** (2-4 weeks) due to dependence and tolerance risks"
       ]
     },
     "Hypersomnia": {
@@ -1418,29 +1418,29 @@
   "Substance Use & Intoxication": {
     "Alcohol Intoxication": {
       "assessment": {
-        "clarify_core": "Onset: When did alcohol intoxication begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Alcohol Intoxication. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Alcohol Intoxication. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Recent alcohol consumption (amount, timeframe, pattern), timeline of intoxication, symptoms: slurred speech, ataxia, nystagmus, impaired judgment, mood changes (euphoria, dysphoria, aggression), level of consciousness, last drink time, food intake, tolerance history",
+        "screen_for_syndrome": "Screen for **alcohol use disorder**: tolerance, withdrawal, loss of control, use despite harm, cravings, time spent. Also screen for depression, anxiety, psychosis, PTSD, polysubstance use. Assess for complications (liver, pancreatitis, neuropathy).",
+        "rule_out_mimics": "**Other CNS depressants**: benzos, sedatives. **Hypoglycemia** (diabetic). **Stroke** (focal deficits, onset timing). **TBI** (head injury). **Hepatic encephalopathy** (chronic liver disease). **Wernicke's encephalopathy** (nystagmus, ataxia, confusion). **Other substances**: cannabis, opioids.",
+        "psychosocial_context": "Drinking context (social, solitary, coping), stressors, family alcohol history, trauma, peer influences, occupation, access to alcohol, cultural factors",
+        "risk_assessment": "**Acute danger**: driving, operating machinery, violence risk, self-harm during intoxication, aspiration risk, falls/trauma, sexual risk (assault vulnerability), withdrawal risk if heavy regular use"
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Alcohol Intoxication, Alcohol Use Disorder (mild, moderate, severe), Polysubstance Use, Alcohol-Induced Psychotic/Mood/Anxiety Disorder",
+        "secondary_mimics": "Other CNS depressant intoxication (benzos, sedatives, opioids), hypoglycemia, stroke, TBI, hepatic encephalopathy, Wernicke's encephalopathy, other substance intoxication",
+        "red_flags": "**Wernicke's triad** (ataxia, nystagmus, confusion) \u2192 medical emergency, thiamine replacement. **Coma**, respiratory depression, seizures \u2192 severe intoxication. **Focal neurological signs** \u2192 consider stroke/TBI."
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "Assess level of consciousness, airway protection if needed. Monitor vitals. Check for injuries. **Thiamine 100mg IV/IM** before glucose if Wernicke's suspected. Ensure safety (observe until sober).",
+        "biological_interventions": "**Supportive care** for acute intoxication (most cases). **Thiamine replacement** if suspected deficiency. Treat complications if present. Rule out other causes if atypical presentation. Screen labs: LFTs, CBC, electrolytes.",
+        "psychological_interventions": "**Brief intervention/motivational interviewing** when sober. Psychoeducation about alcohol use disorder. Relapse prevention planning. CBT for alcohol use.",
+        "social_interventions": "Referral to addiction services. AA/NA groups. Family involvement. Address social determinants. Support services.",
+        "follow_up_monitoring": "Engage with addiction services. Monitor for withdrawal symptoms if heavy use. Screen for alcohol use disorder. Follow-up on complications."
       },
       "faculty_pearls": [
-        "Consider Alcohol Intoxication within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "**Always give thiamine before IV glucose** in suspected alcoholics - can precipitate Wernicke's",
+        "**Brief intervention** (motivational interviewing) is effective in acute care settings",
+        "**Wernicke's encephalopathy** is medical emergency - don't miss ataxia + nystagmus + confusion",
+        "Assess for **alcohol use disorder** in intoxication presentations - not just 'drunk', but chronic problem"
       ]
     },
     "Alcohol Withdrawal": {
@@ -1636,29 +1636,29 @@
   "Trauma & Dissociation": {
     "Flashbacks/Intrusive Memories": {
       "assessment": {
-        "clarify_core": "Onset: When did flashbacks/intrusive memories begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Flashbacks/Intrusive Memories. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Flashbacks/Intrusive Memories. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Trauma history (type, timing), flashback characteristics (sensory modality, duration, triggers, frequency), dissociative quality (feeling like it's happening now vs memory), associated symptoms (hyperarousal, panic, avoidance), impact on functioning, insight (knows it's flashback vs delusion)",
+        "screen_for_syndrome": "Screen for **PTSD**: re-experiencing (other: nightmares), avoidance, negative alterations (emotional numbing, detachment), hyperarousal. Also assess for dissociation, depression, substance use, psychosis.",
+        "rule_out_mimics": "**Psychosis**: delusions vs flashbacks (ego-syntonic vs ego-dystonic), hallucinations (external vs internal sensory). **Complex partial seizures** (temporal lobe). **Substance**: hallucinogens, dissociatives (ketamine). **Medication**: dissociatives. **Medical**: TIA, migraine aura.",
+        "psychosocial_context": "Trauma details (single vs complex, developmental trauma), current stressors/triggers, supports, coping strategies, avoidance patterns, shame/stigma, cultural factors",
+        "risk_assessment": "Suicidal ideation (common in PTSD), self-harm, substance use as coping, dangerous behavior during flashbacks (fleeing, driving), re-traumatization risk"
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "PTSD, Acute Stress Disorder, Dissociative Disorders (DID, depersonalization/derealization), Other Specified Dissociative Disorder, Psychosis",
+        "secondary_mimics": "Complex partial seizures (temporal lobe), substance intoxication/withdrawal (hallucinogens, dissociatives), medication side effects, medical events (TIA, migraine aura), hypnagogic/hypnopompic hallucinations",
+        "red_flags": "**Active suicidal ideation** with plan/intent, dangerous behavior during flashbacks, self-harm, substance dependence, psychosis features, trauma re-enactment"
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "Assess for acute suicide risk. Provide grounding during flashback. Ensure safety. Address substance use if present.",
+        "biological_interventions": "**First-line: SSRIs** (sertraline, paroxetine, fluoxetine). **Prazosin** for nightmares. **Second-line**: SNRIs, mirtazapine. Consider low-dose antipsychotics if hyperarousal severe. Treat comorbid depression.",
+        "psychological_interventions": "**Trauma-focused CBT** (prolonged exposure, cognitive processing, skills training). **EMDR** (evidence-based). **Grounding techniques** for flashbacks. Psychoeducation about PTSD neurobiology. Avoidance reduction.",
+        "social_interventions": "Trauma-informed care. Family education. Support groups. Safety planning. Address triggers in environment.",
+        "follow_up_monitoring": "Monitor PTSD symptoms (PCL-5, CAPS). SSRI response 8-12 weeks. Monitor for substance use. Regular follow-up. Minimum 12 weeks treatment."
       },
       "faculty_pearls": [
-        "Consider Flashbacks/Intrusive Memories within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "Flashbacks are **re-experiencing symptoms**, not delusions - patients know it's memory, not reality",
+        "**Grounding techniques** (5-4-3-2-1, sensory awareness) are essential for managing flashbacks",
+        "**Avoidance maintains PTSD** - exposure therapy (informed and gradual) is key treatment",
+        "SSRIs are first-line but **response takes 8-12 weeks** - longer than depression"
       ]
     },
     "Nightmares (PTSD-related)": {
@@ -1881,29 +1881,29 @@
     },
     "Gender Dysphoria": {
       "assessment": {
-        "clarify_core": "Onset: When did gender dysphoria begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Gender Dysphoria. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Gender Dysphoria. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Age of onset (childhood vs adolescent vs adult), duration, nature of dysphoria (discomfort with assigned gender, desire for different gender/characteristics), social transition (name, pronouns, presentation), medical transition interest (hormones, surgery), dysphoria intensity (mild discomfort to severe distress), impact on functioning",
+        "screen_for_syndrome": "Screen for **gender dysphoria**: persistent, significant distress/impairment. Also assess for depression (very common - 40-50%), anxiety, substance use, autism spectrum (some cross-over), trauma/abuse history. Assess for safety (bullying, discrimination, family rejection).",
+        "rule_out_mimics": "**Psychotic disorders**: gender delusions (rare, usually ego-syntonic vs gender dysphoria ego-dystonic). **Body dysmorphic disorder** (focused on specific body parts, not gender). **Autism spectrum** (rigid interests, social difficulties). **Cross-dressing** (fetishistic vs dysphoria). **Confusion** about sexuality vs gender.",
+        "psychosocial_context": "Family acceptance/rejection, peer acceptance, religious/cultural factors, bullying/discrimination, trauma/abuse history, internalized transphobia, access to gender-affirming care, socioeconomic barriers",
+        "risk_assessment": "**High suicide risk** (up to 40% attempt rate), self-harm, depression, substance use, homelessness, exploitation risk, family rejection, barriers to healthcare"
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Gender Dysphoria/Gender Incongruence (not a mental disorder but requiring assessment), comorbid Depressive Disorders, Anxiety Disorders, Body Dysmorphic Disorder (different from gender dysphoria)",
+        "secondary_mimics": "Psychotic disorders with gender delusions, body dysmorphic disorder, autism spectrum with gender-atypical interests, cross-dressing without dysphoria, sexual orientation confusion",
+        "red_flags": "**Active suicidal ideation** (very common - assess every visit), self-harm, severe depression, family rejection, homelessness, exploitation, barriers to care"
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "**Assess suicide risk critically** - extremely high in this population. Address acute depression. Ensure safety. Provide validation and affirming care. Address crisis if present.",
+        "biological_interventions": "**Gender-affirming hormones** (estrogen/testosterone) if desired and appropriate (endocrinology referral). **Puberty blockers** for adolescents if desired. Monitor hormone levels. Treat depression/anxiety if present. Rule out medical causes.",
+        "psychological_interventions": "**Gender-affirming psychotherapy**. Support for exploration and transition. CBT for depression/anxiety. Family therapy for acceptance. Address internalized transphobia.",
+        "social_interventions": "**Social transition support**: name/pronoun changes, presentation. Legal name/gender marker changes. School/workplace accommodations. Support groups. Advocacy. Address discrimination.",
+        "follow_up_monitoring": "Monitor mental health (depression, anxiety, suicidality). Monitor hormone effects/safety. Regular follow-up. Long-term supportive care often needed."
       },
       "faculty_pearls": [
-        "Consider Gender Dysphoria within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "**Gender dysphoria is not a mental disorder** per DSM-5, but requires assessment for gender-affirming care",
+        "**Suicide risk is extremely high** - assess at every visit, take seriously, have crisis plan",
+        "**Social transition is medically necessary and not optional** for many - support family acceptance",
+        "**Depression common** - often secondary to dysphoria/discrimination, not primary - affirming care reduces risk"
       ]
     },
     "Sexual Orientation Confusion": {
@@ -1964,29 +1964,29 @@
   "Attention, Impulse Control & Development": {
     "Inattention": {
       "assessment": {
-        "clarify_core": "Onset: When did inattention begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Inattention. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Inattention. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Onset (childhood < age 7 required for ADHD, adult-onset suggests other causes), duration (\u22656 months symptoms), contexts (academic, work, home, conversations), specific difficulties (sustained attention, divided attention, organization, forgetfulness, losing things, distractibility), impact on functioning, compensation strategies used",
+        "screen_for_syndrome": "Screen for **ADHD**: requires childhood symptoms, hyperactivity/impulsivity also present, functional impairment. Also assess for: anxiety, depression, sleep disorders, substance use, learning disabilities, autism spectrum, medical causes (vision, hearing, thyroid, seizures).",
+        "rule_out_mimics": "**Depression** (concentration impairment), **anxiety** (worry distracts), **sleep deprivation**, **substance use** (cannabis, alcohol, stimulant withdrawal), **medical**: hypothyroidism, anemia, vision/hearing problems, **medication**: antihistamines, benzos, antiepileptics, **neurological**: absence seizures, TBI, dementia.",
+        "psychosocial_context": "Family ADHD history, perinatal factors, early developmental environment, stress/exhaustion, current demands exceeding capacity, compensation strategies (overwork to compensate), substance use as coping",
+        "risk_assessment": "Functional impairment (academic failure, work performance), driving safety, depression/suicide, substance use, risk-taking behaviors if impulsivity present"
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "ADHD (Inattentive, Hyperactive/Impulsive, or Combined), Anxiety Disorders, Depressive Disorders, Learning Disorders, Autism Spectrum Disorder",
+        "secondary_mimics": "Sleep deprivation, hypothyroidism, anemia, substance intoxication/withdrawal, medication side effects, absence seizures, TBI, dementia, vision/hearing impairment",
+        "red_flags": "**Adult-onset without childhood symptoms** \u2192 not ADHD. **Focal neurological signs** \u2192 TIA/stroke/tumor. **Severe functional impairment** \u2192 consider other diagnosis. **Sudden onset** \u2192 delirium/substance"
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "Address functional impairment. Assess for depression/suicide. Rule out medical causes. Ensure safety (driving, operating machinery if severely impaired).",
+        "biological_interventions": "**Stimulants for ADHD**: methylphenidate, amphetamine salts, lisdexamfetamine, atomoxetine (non-stimulant). **Treat underlying**: antidepressants for depression/anxiety, thyroid hormone if hypothyroidism, treat sleep disorder if present. Vision/hearing referral if indicated.",
+        "psychological_interventions": "**CBT for ADHD** (organizational skills, time management, cognitive strategies). Coaching/organizational skills training. Psychoeducation. CBT for comorbid anxiety/depression.",
+        "social_interventions": "Academic/workplace accommodations. Environmental modifications (reduced distractions). Structure and routine. Family education. Support groups.",
+        "follow_up_monitoring": "Monitor symptom improvement (ADHD rating scales). Monitor medication response (immediate for stimulants). Monitor for growth/side effects in children. Regular follow-up."
       },
       "faculty_pearls": [
-        "Consider Inattention within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "**ADHD requires childhood-onset symptoms** - adult-onset inattention is usually depression/anxiety/sleep",
+        "**Stimulants are first-line and work immediately** - response is diagnostic (if no improvement, reconsider diagnosis)",
+        "Functional impairment is required for ADHD diagnosis** - symptoms alone insufficient",
+        "Untreated ADHD commonly leads to **depression, substance use, academic/work failure** - early intervention prevents cascading problems"
       ]
     },
     "Hyperactivity": {
@@ -2236,29 +2236,29 @@
     },
     "Suicidal Ideation/Behavior": {
       "assessment": {
-        "clarify_core": "Onset: When did suicidal ideation/behavior begin? Duration: How long has it persisted? Frequency/Pervasiveness: How often does it occur? Context: Any triggers or situations? Functional impact: How does it affect daily life?",
-        "screen_for_syndrome": "Screen for associated psychiatric symptoms relevant to Suicidal Ideation/Behavior. Consider mood, anxiety, psychotic, cognitive, and behavioral symptoms. Assess for syndromic presentations.",
-        "rule_out_mimics": "Medical: Consider relevant medical conditions based on symptom presentation. Substance: Assess for alcohol, stimulant, sedative, cannabis, hallucinogen use or withdrawal. Medication: Review current medications for potential side effects.",
-        "psychosocial_context": "Recent life events, chronic stressors, relationship dynamics, work/school environment, trauma history, social support systems, cultural factors, sleep patterns.",
-        "risk_assessment": "Assess for immediate safety concerns related to Suicidal Ideation/Behavior. Evaluate for self-harm, suicide risk, risk to others. Consider impact on judgment and safety-critical activities."
+        "clarify_core": "Onset, frequency (passive thoughts vs active daily), content (wish to die, specific plan, methods considered), intent (any intention to act), means (access to lethal methods), past attempts (number, methods, timing), triggers/stressors, protective factors (family, responsibilities, religious/moral objections), current behavior (preparation, goodbyes)",
+        "screen_for_syndrome": "Screen for: **depression** (low mood, anhedonia, hopelessness), **bipolarity** (mania/mixed episodes, rapid cycling), **psychosis** (command hallucinations, delusions), **PTSD** (trauma survivor guilt), **borderline personality** (emotional lability, abandonment fears), **substance use**, chronic pain, terminal illness.",
+        "rule_out_mimics": "**Medical delirium** (especially in elderly, post-op), **neurological conditions** (right hemisphere stroke, tumors), **substance intoxication/withdrawal**, **medication side effects** (antidepressants in young adults - activation syndrome).",
+        "psychosocial_context": "Recent losses, failures, humiliation, relationship conflicts, family history of suicide, trauma, abuse, bullying, isolation, chronic stress, access to means (firearms, medications), cultural/religious factors",
+        "risk_assessment": "**IMMEDIATE**: Is there current plan? Means access? Intent to act? Past attempts? Protective factors? **Risk stratification**: low, moderate, high, extreme. **Safety**: remove means, constant observation, hospitalization if high risk."
       },
       "differential_diagnosis": {
-        "primary_psychiatric": "Consider primary psychiatric disorders where this symptom is a core or associated feature based on diagnostic criteria and clinical presentation.",
-        "secondary_mimics": "Medical conditions, substance use/withdrawal, medication side effects, neurological conditions, endocrine disorders, normal variations.",
-        "red_flags": "Symptoms suggesting medical emergency, severe psychiatric decompensation, acute danger to self/others, rapid symptom progression, atypical presentations."
+        "primary_psychiatric": "Depressive Disorders, Bipolar Disorders (especially during mixed episodes), Schizophrenia, Schizoaffective Disorder, Borderline Personality Disorder, PTSD, Substance Use Disorders",
+        "secondary_mimics": "Delirium (medical emergency), neurological conditions, substance intoxication/withdrawal, medication side effects, chronic pain, terminal illness",
+        "red_flags": "**Current plan + means + intent \u2192 EMERGENCY**, hospitalize, constant observation. **Command hallucinations**. **History of attempts** (strongest predictor). **Severe hopelessness**. **Mixed episode** (high risk). **Substance intoxication** (poor judgment)."
       },
       "management": {
-        "immediate_priorities": "Safety assessment and stabilization. Address any acute crises or emergencies. Rule out urgent medical causes. Initiate appropriate interventions based on severity.",
-        "biological_interventions": "Consider medications based on underlying diagnosis. Complete relevant medical investigations. Treat any identified medical causes. Monitor medication response and side effects.",
-        "psychological_interventions": "Implement evidence-based psychotherapies appropriate to diagnosis. Provide psychoeducation about symptoms and treatment. Teach coping strategies and skills.",
-        "social_interventions": "Address psychosocial stressors and environmental factors. Engage support systems. Consider accommodations in work/school. Address social determinants impacting recovery.",
-        "follow_up_monitoring": "Regular monitoring of symptom severity and treatment response. Use standardized measures when appropriate. Adjust treatment based on response. Long-term management planning."
+        "immediate_priorities": "**RISK ASSESSMENT IS NON-NEGOTIABLE**. If high/acute risk: involuntary hospitalization, remove means, constant observation, involve family. If moderate risk: safety plan, remove means, close monitoring, follow-up within 24-48 hours. Treat underlying disorder.",
+        "biological_interventions": "**Treat underlying disorder**: antidepressants for depression, mood stabilizers/antipsychotics for bipolar/psychosis. Consider ECT for severe depression with high suicide risk. Treat agitation with short-term benzos. Monitor closely.",
+        "psychological_interventions": "**Crisis intervention**, safety planning, CBT for depression/psychosis, DBT for BPD (dialectical approach to suicidal urges), hope-focused interventions, address maladaptive beliefs.",
+        "social_interventions": "Means restriction (firearms, medications). Family involvement and education. Support systems. Address stressors. Safety contracts (with family awareness). Postvention if attempt.",
+        "follow_up_monitoring": "**Frequent follow-up initially** (daily if high risk, 2-3 days otherwise). Monitor ideation, intent, plan, means, protective factors. Adjust treatment. Long-term management (6-12 months minimum post-crisis)."
       },
       "faculty_pearls": [
-        "Consider Suicidal Ideation/Behavior within the broader clinical context - isolated symptoms may be less diagnostically significant than symptom clusters.",
-        "Cultural factors significantly influence symptom expression and help-seeking - cultural formulation is essential.",
-        "Screening for comorbid conditions is important - psychiatric disorders frequently co-occur.",
-        "Patient education about the symptom and its treatment improves engagement and outcomes."
+        "**Hopelessness is the strongest predictor** of suicide - assess specifically, not just depression severity",
+        "**Don't be afraid to ask directly** about suicide - shows you care and doesn't increase risk",
+        "**Means restriction works** - one of the most effective suicide prevention strategies",
+        "**Past attempt is strongest risk factor** for future suicide - take very seriously"
       ]
     },
     "Self-Harm/Non-suicidal Self-Injury": {
